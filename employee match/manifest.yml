@@ -1,0 +1,7 @@
+applications:
+- disk_quota: 1024M
+  host: employee-match
+  name: employee-match
+  path: webStarterApp.war
+  instances: 1
+  memory: 512M
